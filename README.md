@@ -4,7 +4,11 @@ Hi 👋 My name is Abdelilah Boutizoua
 Fullstack Engineer
 ------------------
 
-Motivated Software Engineer who precisely executes development projects from concept to delivery and works effectively in a dynamic environment. Fluent in building backend systems with good software engineering practices and mobile applications. I'm also interested in Big Data.
+As a Senior Software Engineer with over 6 years of experience, I am passionate about building high-quality, scalable, and maintainable software solutions that solve real-world problems. My expertise spans the full software development lifecycle, from conceptualization and design to deployment and maintenance, with a strong focus on TypeScript, React.js, PHP Symfony and Flutter.
+
+Throughout my career, I have a proven track record of successfully delivering complex projects, including the integration of diverse project interfaces and the development of modular, reusable web components. I thrive in collaborative environments, and I am committed to writing clean, efficient code and adhering to best practices, including conducting thorough code reviews and implementing robust unit testing with Jest.
+
+I am always eager to learn and adapt to new technologies and challenges. My goal is to leverage my skills and experience to contribute to a forward-thinking organization that is making a positive impact. I am particularly interested in opportunities that involve building innovative web and mobile applications that enhance user experiences and drive business growth.
 
 * 🌍  I'm based in Morocco - Marrakesh
 * ✉️  You can contact me at [boutizouaa@gmail.com](mailto:boutizouaa@gmail.com)
